@@ -1,0 +1,1 @@
+// connect chain to its wallet
